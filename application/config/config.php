@@ -16,6 +16,8 @@
 */
 $config['base_url']	= '';
 
+$config['server_root'] = $_SERVER['DOCUMENT_ROOT'];
+
 /*
 |--------------------------------------------------------------------------
 | Index File
